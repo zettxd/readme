@@ -4,11 +4,11 @@
 
 ![profile count](https://komarev.com/ghpvc/?username=AndaleFx&color=red)&nbsp;
 
-[![GitHub knoxfx](https://img.shields.io/github/followers/AndaleFx?label=follow&style=social)](https://github.com/Marcus-FX)&nbsp;
+[![GitHub zettxd](https://img.shields.io/github/followers/AndaleFx?label=follow&style=social)](https://github.com/Marcus-FX)&nbsp;
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/413746118380486668?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/413746118380486668)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/413746118380486668?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/605095070395531315)
 
 ## Kullandığım şeyler:
 
