@@ -1,6 +1,6 @@
 ### Hello I'm Zett <img src = "https://cdn.discordapp.com/emojis/625936333248004096.png?v=1" high="20px" width="30px">
 
-![version :30.04.2023](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+![version :30.04.2023](https://img.shields.io/badge/version-30.04.2023-informational) &nbsp;
 
 ![profile count](https://komarev.com/ghpvc/?username=zettxd&color=red)&nbsp;
 
