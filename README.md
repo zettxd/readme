@@ -8,7 +8,7 @@
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/605095070395531315?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/605095070395531315)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/413746118380486668?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/605095070395531315)
 
 ## Kullandığım şeyler:
 
