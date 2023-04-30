@@ -2,9 +2,9 @@
 
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 
-![profile count](https://komarev.com/ghpvc/?username=AndaleFx&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=zettxd&color=red)&nbsp;
 
-[![GitHub zettxd](https://img.shields.io/github/followers/AndaleFx?label=follow&style=social)](https://github.com/Marcus-FX)&nbsp;
+[![GitHub zettxd](https://img.shields.io/github/followers/zettxd?label=follow&style=social)](https://github.com/Marcus-FX)&nbsp;
 
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
